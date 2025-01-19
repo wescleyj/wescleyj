@@ -16,7 +16,7 @@ Estudante de 19 anos, atualmente cursando Engenharia da computação no CEFET-MG
    
    
      
-<img align="right" alt="Perfil" width="200px" src="https://avatars.githubusercontent.com/u/179670733?s=400&u=c39fecb004466f9a6d8d2ece293fb800a9a603a6&v=4" /> 
+<img align="right" alt="Perfil" width="100px" src="https://avatars.githubusercontent.com/u/179670733?s=400&u=c39fecb004466f9a6d8d2ece293fb800a9a603a6&v=4" /> 
 
 ### :computer: Linguagens de programação
 
