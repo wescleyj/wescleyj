@@ -1,6 +1,6 @@
 # Wescley Júnior
 
-Estudante de 19 anos, atualmente cursando Engenharia da computação no CEFET-MG, atuando autualmente como Freelancer.
+Estudante de 19 anos, atualmente cursando Engenharia da computação no CEFET-MG,autualmente atuando como Freelancer.
 
    <div align="left">
       <a href="" target="_blank">
