@@ -30,5 +30,5 @@ Estudante de 19 anos, atualmente cursando Engenharia da computação no CEFET-MG
 <h3>Sobre</h3>
   
 <p>Olá, meu nome é Wescley Júnior Gonçalves Navarro, tenho 19 anos e trabalho como Desenvolvedor Freelancer.</p>
-<p>Tenho paixão por programação, com foco em front-end, e estou sempre explorando novas linguagens e tecnologias.</p>
+<p>Tenho paixão por programação, e estou sempre explorando novas linguagens e tecnologias.</p>
 <p>Encaro desafios como oportunidades de aprendizado, buscando criar soluções inovadoras e eficientes para cada projeto.</p>
