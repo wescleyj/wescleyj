@@ -77,9 +77,9 @@
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<picture>
-			<source srcset="https://github-profile-trophy.vercel.app/?username=wescleyj&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
-			<source srcset="https://github-profile-trophy.vercel.app/?username=wescleyj&no-bg=true&column=7&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-			<img src="https://github-profile-trophy.vercel.app/?username=wescleyj&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Wescley's Trophies" />
+			<source srcset="https://gh-trophy.cdnsoft.net/?username=wescleyj&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" media="(prefers-color-scheme: dark)" />
+			<source srcset="https://gh-trophy.cdnsoft.net/?username=wescleyj&no-bg=true&column=7&margin-w=15&margin-h=15" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+			<img src="https://gh-trophy.cdnsoft.net/?username=wescleyj&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Wescley's Trophies" />
 		</picture>
 	</a>
 </p>
