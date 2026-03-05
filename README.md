@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+CEFET-MG;Arch+Linux+Enthusiast+%2F+Hyprland;C+%7C+Java+%7C+Python+%7C+Shell+%7C+JavaScript;Low-Level+Dev" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+CEFET-MG;Linux+Enthusiast;C+%7C+Java+%7C+Python+%7C+Shell+%7C+JavaScript;Low-Level+Dev" alt="Typing SVG" />
 	</a>
 </div>
 
@@ -17,23 +17,36 @@
 
 ### 💻 Tech Stack & Tools
 
+**Languages**
 <p align="left">
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+**Frontend & Design**
+<p align="left">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-	<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
+
+**Backend & CMS**
+<p align="left">
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+	<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+	<img src="https://img.shields.io/badge/N8N-4E2F40?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**Tools & Environment**
+<p align="left">
+	<img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-	<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-	<img src="https://img.shields.io/badge/N8N-4E2F40?style=for-the-badge&logo=n8n&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pip&logoColor=white" />
 </p>
 
